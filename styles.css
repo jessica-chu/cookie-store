@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+}
+
+div.align-left {
+  text-align: left;
+}
+  
+div.background {
+  background: url(../img/milkbg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+div.box {
+  background-color: #000000;
+  opacity: 0.6;
+  padding: 40px;
+}
+
+div.box p, h1 { 
+  color: #ffffff;
+}
